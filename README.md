@@ -1,5 +1,5 @@
 # leaderboard-project
-Creating a list structure in my todo-list
+Creating my leaderboard project.
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # leaderboard-project
@@ -31,13 +31,13 @@ cd todo-list-project in the terminal.
 
 
 ## Project Status
-This project has been  finished and deployed.
+This project is still in progress.
 
 ## Screenshoots
-![screenshot (41)](https://github.com/butlermuwo/todo-list-project/blob/list-structure/screenshot/Screenshot%20(41).png)
+![screenshot (49)](https://github.com/butlermuwo/leaderboard-project/blob/17d2cde461dc7d44d4d6c36f9bd671833c799e13/screenshots/Screenshot%20(49).png)
 
 ## Live Demo link
-https://cocky-hugle-0c1e65.netlify.app/
+https://awesome-fermat-2b8c52.netlify.app/
 
 ## Issues
 
