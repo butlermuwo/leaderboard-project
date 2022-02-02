@@ -31,10 +31,10 @@ cd todo-list-project in the terminal.
 
 
 ## Project Status
-This project has been  finished and deployed.
+This project is still in progress.
 
 ## Screenshoots
-![screenshot (41)](https://github.com/butlermuwo/todo-list-project/blob/list-structure/screenshot/Screenshot%20(41).png)
+![screenshot (49)](screenshots\Screenshot (49).png)
 
 ## Live Demo link
 https://cocky-hugle-0c1e65.netlify.app/
