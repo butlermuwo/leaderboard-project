@@ -37,7 +37,7 @@ This project is still in progress.
 ![screenshot (49)](https://github.com/butlermuwo/leaderboard-project/blob/17d2cde461dc7d44d4d6c36f9bd671833c799e13/screenshots/Screenshot%20(49).png)
 
 ## Live Demo link
-https://awesome-fermat-2b8c52.netlify.app/
+https://competent-shaw-a46b79.netlify.app
 
 ## Issues
 
