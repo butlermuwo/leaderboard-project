@@ -34,7 +34,7 @@ cd todo-list-project in the terminal.
 This project is still in progress.
 
 ## Screenshoots
-![screenshot (49)]((https://github.com/butlermuwo/leaderboard-project/blob/17d2cde461dc7d44d4d6c36f9bd671833c799e13/screenshots/Screenshot%20(49).png)
+![screenshot (49)](https://github.com/butlermuwo/leaderboard-project/blob/hit-the-api/screenshots/Screenshot%20(56).png)
 
 ## Live Demo link
 https://awesome-fermat-2b8c52.netlify.app/
