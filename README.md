@@ -34,10 +34,10 @@ cd todo-list-project in the terminal.
 This project is still in progress.
 
 ## Screenshoots
-![screenshot (49)](https://github.com/butlermuwo/leaderboard-project/blob/17d2cde461dc7d44d4d6c36f9bd671833c799e13/screenshots/Screenshot%20(49).png)
+![screenshot (56)](https://github.com/butlermuwo/leaderboard-project/blob/4d1bae2b80ab4e3f9f3889829b86d4e68d305821/screenshots/Screenshot%20(56).png)
 
 ## Live Demo link
-https://competent-shaw-a46b79.netlify.app
+https://practical-agnesi-266911.netlify.app/
 
 ## Issues
 
