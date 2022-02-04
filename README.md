@@ -1,5 +1,5 @@
 # leaderboard-project
-Creating a list structure in my todo-list
+Creating my leaderboard project.
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # leaderboard-project
